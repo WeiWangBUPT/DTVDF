@@ -9,4 +9,4 @@ We implement KShareGen, YShareGen, YShareVer, and Combine four algorithms.
 
  # References
  
-[Efficient Verifiable Delay Functions.](https://eprint.iacr.org/2018/623.pdf)Wesolowski, 2018
+[Efficient Verifiable Delay Functions.](https://eprint.iacr.org/2018/623.pdf) Wesolowski, 2018
