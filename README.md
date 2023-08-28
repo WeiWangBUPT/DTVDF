@@ -4,7 +4,7 @@ We implement a decentralized trapdoor verifiable delay function DTVDF based on W
   
  # Four algorithms of DTVDF
   
-We implement KShareGen, YShareGen, YShareVer, and Combine four algorithms.
+We implement KShareGen, YShareGen, YShareVer, and Combine four algorithms. DTVDF is designed based on a trapdoor VDF, a variant of verifiable secret sharing over the integers, and a variant of the non-interactive zero-knowledge proof protocol.
 
  # References
  
